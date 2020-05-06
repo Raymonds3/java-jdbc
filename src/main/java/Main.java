@@ -7,5 +7,8 @@ public class Main {
         SqlQueries.question2();
         SqlQueries.question3();
         SqlQueries.question4();
+        SqlQueries.question5();
+        SqlQueries.question6();
+        SqlQueries.question7();
     }
 }
